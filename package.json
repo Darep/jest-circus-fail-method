@@ -1,0 +1,19 @@
+{
+  "name": "jest-circus-fail",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "engines": {
+    "node": "14.x"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "axios": "^0.21.1",
+    "axios-mock-adapter": "^1.19.0",
+    "jest": "^27.0.6"
+  }
+}
